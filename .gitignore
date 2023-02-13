@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.data.json
+_IGNORE_BarBar/
+package-lock.json
+.node-persist/
